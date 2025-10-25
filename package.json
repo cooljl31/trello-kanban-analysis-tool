@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@cycle/core": "6.0.3",
-    "@cycle/dom": "9.1.0",
+    "@cycle/dom": "10.0.0",
     "@cycle/isolate": "1.2.0",
     "@cycle/storage": "2.0.3",
     "autoprefixer": "6.3.6",
